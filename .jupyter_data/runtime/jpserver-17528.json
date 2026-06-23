@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 17528,
+  "port": 8888,
+  "root_dir": "C:\\Users\\Bharat\\Downloads\\VII_Sem_Project\\notebooks",
+  "secure": false,
+  "sock": "",
+  "token": "30ee666a22eb2d66273b01c116cc5231d6008e17f437985b",
+  "url": "http://localhost:8888/",
+  "version": "2.20.0"
+}
